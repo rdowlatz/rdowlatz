@@ -1,2 +1,2 @@
-- Hi, I'm Rosha!
-- I'm an engineering student at UBC.
+🏛️ Computer Engineering Undergradguate student @ UBC.
+🌟 Focus: Embedded intelligence, perception, and computational systems at the intersection of hardware and cognition.

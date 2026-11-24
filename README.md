@@ -1,5 +1,3 @@
-* 🏛️ Computer Engineering Undergraduate student @ UBC.
-* 🔐 Focus: Security across SOC, IT, and information security, applying a background in computer architecture, networking, and systems to hands-on security investigation and analysis.
 # Hi, I'm Rosha Dowlatzarei 👋
 
 BASc Computer Engineering student at the **University of British Columbia (UBC)** graduating **December 2026**, based in **Vancouver, BC, Canada**. I am seeking full-time opportunities in security—across **SOC**, **IT security**, **information security**, and **cybersecurity**.

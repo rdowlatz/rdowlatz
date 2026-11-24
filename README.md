@@ -13,10 +13,10 @@ BASc Computer Engineering student at the **University of British Columbia (UBC)*
 
 ## 📂 Featured Projects
 Explore my repositories here on [GitHub](https://github.com/rdowlatz) for hands-on security and engineering work covering:
-- **Microsoft Entra ID Threat Detection (KQL)** — Investigation and detection queries for identity attacks such as password spraying and impossible-travel sign-ins.
-- **SOC Incident Investigation & Log Automation** — Log-based threat detection automation and incident triage workflows.
-- **Network Traffic Analysis** — Traffic inspection and analysis projects.
+- **Microsoft Entra ID Threat Detection (KQL)** - Investigation and detection queries for identity attacks such as password spraying and impossible-travel sign-ins.
+- **SOC Incident Investigation & Log Automation** - Log-based threat detection automation and incident triage workflows.
+- **Network Traffic Analysis** - Traffic inspection and analysis projects.
 
 ## 🎓 Education & Experience
-- **BASc in Computer Engineering** — The University of British Columbia (2022 – 2026)
-- **Teaching Assistant** — Kumon Canada, Inc. (August 2024 – Present, Vancouver, BC)
+- **BASc in Computer Engineering** - The University of British Columbia (2022 - 2026)
+- **Teaching Assistant** - Kumon Canada, Inc. (August 2024 - Present, Vancouver, BC)
